@@ -1,0 +1,53 @@
+#	Note explicative
+#
+#	Les contenus decrits ici ont pour but de renseigner les parametres
+#	dans la partie gestion de l'opac PMB. Les valeurs sont a renseigner 
+#	suivant les directives #obligatoire #recommande...
+#
+#	Il est possible que certains parametres non decrits ci-dessous n'aient pas l'affichage 
+#	souhaite, auquel cas il vous faudra contacter le realisateur de cette charte pour
+#	implementer le parametre en question.
+#	
+#	Une sauvegarde des valeurs est toujours souhaitee avant modification, 
+#	communement en collant le contenu du champ "Valeur" dans le champ "Explication"
+
+
+/*************************
+pour changer les vues
+*************************/
+body#pmbopac {
+	background-image: url("./images/fond.jpg");
+}
+
+a {
+	color: #ad0e04;
+}
+
+h3 {
+	background-image: url("./images/puce.png");
+}
+
+th, .bx-pager a.pager-active, #cms_module_sectionslist_104 {
+    background-color: #AD0E04;
+}
+
+.bx-prev {
+    background-image: url("./images/prev.png");
+}
+
+.bx-next {
+    background-image: url("./images/next.png");
+}
+
+#cms_module_search_22 {
+    background-image: url("./images/bloc_recherche.png");
+}
+
+#cms_module_article_62 a {
+	border-bottom: 1px dashed #ad0e04;
+}
+
+#cms_module_htmlcode_102 #logo_home {
+	background-image: url(./images/fond_home.png);
+}
+

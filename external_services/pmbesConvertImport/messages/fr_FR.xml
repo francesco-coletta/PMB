@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLlist>
+<!-- pmbesRepositories -->
+<entry code="pmbesConvertImport_description">Fonctions de conversion et d'import</entry>
+
+<!-- get_convert_types -->
+<entry code="get_convert_types_description">Liste des types de conversion possibles</entry>
+<entry code="get_convert_types_output_description"></entry>
+
+<!-- convert -->
+<entry code=""></entry>
+</XMLlist>
