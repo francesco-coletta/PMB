@@ -22,7 +22,7 @@ if(strpos($HTTP_SERVER_VARS['PHP_SELF'],'config.inc.php')) {
 	exit ;
 }
 
-$default_lang = 'fr_FR';
+$default_lang = 'it_IT';
 $default_helpdir = $default_lang;
 // Character set = encodage des données. Attention ne pas modifier en cours d'utilisation, votre base de données serait pleine de caracteres bizarre !!!
 $charset= 'iso-8859-1';
